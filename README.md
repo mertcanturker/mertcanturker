@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mertcan</h1>
-<h3 align="center">I'm studying computer engineering in Suleyman Demirel University</h3>
+<h3 align="center">I'm studying Computer Engineering in Suleyman Demirel University</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qcs5p86ge3k5dacj6qdts76mwobxddxlnpg3shtd&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertcanturker&label=Profile%20views&color=0e75b6&style=flat" alt="mertcanturker" /> </p>
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/mertcanturker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mertcanturker" height="30" width="40" /></a>
 <a href="https://fb.com/mertcanturker32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mertcanturker32" height="30" width="40" /></a>
 <a href="https://instagram.com/mertcanturker_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mertcanturker_" height="30" width="40" /></a>
-<a href="https://discord.gg/xWTVdYzYEn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xWTVdYzYEn" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xWTVdYzYEn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
