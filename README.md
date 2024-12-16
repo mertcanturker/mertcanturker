@@ -2,8 +2,6 @@
     <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=0194DD&center=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mertcan;+(24y)++Flutter+Developer+from+Isparta" />
 </h1>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qcs5p86ge3k5dacj6qdts76mwobxddxlnpg3shtd&rid=giphy.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mertcanturker&label=Profile%20views&color=0e75b6&style=flat" alt="mertcanturker" /> </p>
 
 - 🌱 I’m currently learning **Flutter and React**
