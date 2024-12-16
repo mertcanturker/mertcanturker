@@ -1,50 +1,42 @@
 name: Generate Snake
 
 on:
-  # The action runs every 6 hours
   schedule:
+    # her 6 saatte bir çalışacak
     - cron: "0 */6 * * *"
 
-  # Allows us to manually run the action from the Actions tab
+  # Actions sekmesinden manuel olarak tetiklenebilir
   workflow_dispatch:
 
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
     steps:
-      # Checks out the repository so your job can access it
-      - name: Checkout code
-        uses: actions/checkout@v2
+      # Kodu checkout eder
+      - uses: actions/checkout@v2
 
-      # Generates the snake gif and svg from the contribution graph
-      - name: Generate Snake
-        uses: Platane/snk@master
+      # Snake'i oluşturur
+      - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mertcanturker
-          # These next 2 lines generate the files on a branch called "output"
-          # This keeps the main branch from cluttering up.
+          github_user_name: mishmanners
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the build. Makes it easier for debugging.
-      - name: Check git status
-        run: git status
+      # Git durumu görüntülenir, hataları anlamak için
+      - run: git status
 
-      # Push the changes to the repository
-      - name: Push changes to the repository
+      # Değişiklikleri push eder
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
-      # Push the generated files to the "output" branch using GitHub Pages
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Github Pages'e push eder
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
