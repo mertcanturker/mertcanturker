@@ -38,10 +38,14 @@
 <br/>
 <hr/>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=mertcanturker&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mertcanturker&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanturker&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mertcanturker&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mertcanturker&theme=dracula&hide_border=true" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanturker&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=mertcanturker&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
