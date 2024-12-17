@@ -25,9 +25,6 @@
   <a href="mertcanturker000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/mertcanturker/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
 </div>
 
 ## 🌐Socials
@@ -48,9 +45,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mertcanturker&icon=0&color=5)](https://visitcount.itsvg.in)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=mertcanturker&icon=0&color=0)](https://visitcount.itsvg.in)
 
  <br/>
