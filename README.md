@@ -51,7 +51,6 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-trophies.vercel.app/?username=mertcanturker&theme=dracula&no-frame=false&no-bg=true&margin-w=4"/>
-  <img width=390 src="https://visitcount.itsvg.in/api?id=mertcanturker&icon=0&color=5)](https://visitcount.itsvg.in" />
 </div>
 
 ## 🏆GitHub Trophies
