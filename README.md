@@ -1,3 +1,7 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mertcanturker&label=Profile%20Views&color=10&icon=5&pretty=false" />
+</a>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=0194DD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Mertcan;+(24y)+Mobile+Developer+from+Isparta" alt="Typing SVG" /></a>
 </h1>
