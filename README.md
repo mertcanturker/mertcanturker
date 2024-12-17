@@ -50,7 +50,7 @@
 <h2 align="center">🏆GitHub Trophies</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-trophies.vercel.app/?username=mertcanturker&theme=dracula&no-frame=false&no-bg=true&margin-w=4"/>
+  <img width=680 height=220 src="https://github-trophies.vercel.app/?username=mertcanturker&theme=dracula&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
 ## 🏆GitHub Trophies
