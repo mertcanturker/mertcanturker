@@ -42,7 +42,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mertcanturker&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mertcanturker&theme=dracula&hide_border=true" />
+  <img width=390 height=169 src="https://github-readme-streak-stats.herokuapp.com/?user=mertcanturker&theme=dracula&hide_border=true" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanturker&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
