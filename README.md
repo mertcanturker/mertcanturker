@@ -54,6 +54,10 @@
 </div>
 
 ---
+<div align=center>
+  <img width=680 height=220 src="https://visitcount.itsvg.in/api?id=mertcanturker&icon=0&color=5)](https://visitcount.itsvg.in"/>
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=mertcanturker&icon=0&color=5)](https://visitcount.itsvg.in)
 
  <br/>
